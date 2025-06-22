@@ -1,4 +1,4 @@
-
+package testEnvioColectivos;
 
 import enviocolectivos.*;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package org.example;
+package enviocolectivos;
 
 public class EnvioColectivosSur implements EstrategiaDeEnvio {
     @Override

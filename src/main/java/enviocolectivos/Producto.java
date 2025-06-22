@@ -1,4 +1,4 @@
-package org.example;
+package enviocolectivos;
 
 public class Producto {
     private String nombre;

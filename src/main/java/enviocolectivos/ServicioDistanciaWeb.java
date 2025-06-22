@@ -1,4 +1,4 @@
-package org.example;
+package enviocolectivos;
 
 public class ServicioDistanciaWeb {
     public int obtenerDistanciaKm(String origen, String destino) {
